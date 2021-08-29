@@ -1,1 +1,15 @@
-"{\"live\":false,\"title\":\"Domingo de Minecraft\",\"description\":\"Hoy vamos a probar el servidor que ha montado la comunidad\",\"program\":[{\"title\":\"Charlando con seguidores\",\"description\":\"Comentaremos con la comunidad qué haremos en el stream de hoy y presentaremos el servidor de Minecraft\"},{\"title\":\"Admin noob sobrevive en Minecraft\",\"description\":\"Podrás deleitarte con las habilidades de supervivencia de un admin que poco tiene que ver con este mundo.\"}]}"
+{
+	"live": false,
+	"title": "¡Domingo de Minecraft!",
+	"description": "Jugaremos en el servidor que ha montado la comunidad",
+	"timeleft": "2021-08-29T19:00:00Z",
+	"program": [{
+			"title": "Charlando con seguidores",
+			"description": "Ratito de charla con la comunidad. Responderemos preguntas y hablaremos sobre lo que haremos en el stream de hoy."
+		},
+		{
+			"title": "Noob Admin en Minecraft",
+			"description": "Podrás deleitarte con las habilidades de supervivencia de zeb."
+		}
+	]
+}
