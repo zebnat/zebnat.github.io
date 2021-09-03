@@ -1,15 +1,11 @@
 {
-	"live": true,
+	"live": false,
 	"title": "Continuamos Outlast",
 	"description": "Nos veremos el jueves, ya que hay huelga de Twitch.",
 	"timeleft": "2021-09-02T19:00:00Z",
 	"program": [{
-			"title": "Charlando con seguidores",
-			"description": "Ratito de charla con la comunidad. Responderemos preguntas y hablaremos sobre lo que haremos en el stream de hoy."
-		},
-		{
-			"title": "Continuamos la partida de Outlast",
-			"description": "Los clips de Twitch están activados y los sustos asegurados ;D."
+			"title": "No definido",
+			"description": "No definido."
 		}
 	]
 }
