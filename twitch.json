@@ -1,11 +1,11 @@
 {
 	"live": false,
-	"title": "Continuamos Outlast",
-	"description": "Nos veremos el jueves, ya que hay huelga de Twitch.",
-	"timeleft": "2021-09-02T19:00:00Z",
+	"title": "Dev talks",
+	"description": "bla",
+	"timeleft": "2021-09-04T19:00:00Z",
 	"program": [{
-			"title": "No definido",
-			"description": "No definido."
+			"title": "Dev talks #1",
+			"description": "Estaré toda la tarde noche programando cosas de mi web. Si te entusiasma la programación pásate a saludar y hacer preguntas."
 		}
 	]
 }
