@@ -1,11 +1,15 @@
 {
-	"live": true,
-	"title": "Dev talks",
+	"live": false,
+	"title": "Domingo de vicio",
 	"description": "bla",
-	"timeleft": "2021-09-04T20:00:00Z",
+	"timeleft": "2021-09-05T20:00:00Z",
 	"program": [{
-			"title": "Dev talks #1",
-			"description": "Estaré toda la tarde noche programando cosas de mi web. Si te entusiasma la programación pásate a saludar y hacer preguntas."
+			"title": "Mini charla con seguidores 👀",
+			"description": "Un ratito de 20min de charla con seguidores al inicio. Si tienes cosas que preguntarme aprovecha."
+		},
+		    {
+			"title": "Resident Evil 7 😈",
+			"description": "Empezaremos el juego a ver qué tal está 😨. ¿Dará el mismo pánico que outlast? ¿Seré igual de manco?"
 		}
 	]
 }
