@@ -2,14 +2,18 @@
 	"live": false,
 	"title": "Nuevo juego",
 	"description": "bla",
-	"timeleft": "2021-09-08T20:00:00Z",
+	"timeleft": "2021-09-11T20:00:00Z",
 	"program": [{
-			"title": "Mini charla con seguidores 👀",
-			"description": "Un ratito de charla con seguidores al inicio ¿o quizás haremos algo más? 😁 Si tienes cosas que preguntarme aprovecha."
+			"title": "Charlita inicial. ¡Nuevo sistema de mentores!",
+			"description": "Como siempre, al inicio charlaremos de la vida😂 y de cualquier tema que concierne a la comunidad. En este caso os comentaré como será el futuro sistema de mentores con pelos y señales. También aprovecharemos para jugar a juegos con la comunidad y hablar de cosillas."
 		},
 		    {
 			"title": "Resident Evil 7 😈",
-			"description": "Empezaremos el juego a ver qué tal está 😨. ¿Dará el mismo pánico que outlast? ¿Seré igual de manco?"
+			"description": "Vayamos al contenido. Seguiremos jugando este juego maldito, con el acoso perpetuo del suegro y la suegra. Si me atasco con los puzzles... no te vayas, ¡ayúdame por dios!. Si te aburre eres libre de marchar, pero te perderás el final."
+		},
+		    {
+			"title": "Despedida o quizás...? 😏",
+			"description": "Antes que Zeb pierda las pocas neuronas que le queden, dejaremos de jugar RE7 (si por favor, que agota) y volveremos con el chat para pasar lista y descubrir quién es el fandom verdadero. Hablaremos entre nosotros de cualquier cuestión o incluso jugaremos a alguna cosita juntos. Solo el fandom de verdad aguanta hasta el bloque final, ya sabes."
 		}
 	]
 }
