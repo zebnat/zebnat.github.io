@@ -1,19 +1,19 @@
 {
 	"live": false,
-	"title": "Nuevo juego",
+	"title": "Domingo Chill RE7, MorphoD y Debate",
 	"description": "bla",
-	"timeleft": "2021-09-11T20:00:00Z",
+	"timeleft": "2021-09-19T19:00:00Z",
 	"program": [{
-			"title": "Charlita inicial. ¡Nuevo sistema de mentores!",
-			"description": "Como siempre, al inicio charlaremos de la vida😂 y de cualquier tema que concierne a la comunidad. En este caso os comentaré como será el futuro sistema de mentores con pelos y señales. También aprovecharemos para jugar a juegos con la comunidad y hablar de cosillas."
-		},
-		    {
-			"title": "Resident Evil 7 😈",
-			"description": "Vayamos al contenido. Seguiremos jugando este juego maldito, con el acoso perpetuo del suegro y la suegra. Si me atasco con los puzzles... no te vayas, ¡ayúdame por dios!. Si te aburre eres libre de marchar, pero te perderás el final."
-		},
-		    {
-			"title": "Despedida o quizás...? 😏",
-			"description": "Antes que Zeb pierda las pocas neuronas que le queden, dejaremos de jugar RE7 (si por favor, que agota) y volveremos con el chat para pasar lista y descubrir quién es el fandom verdadero. Hablaremos entre nosotros de cualquier cuestión o incluso jugaremos a alguna cosita juntos. Solo el fandom de verdad aguanta hasta el bloque final, ya sabes."
-		}
-	]
+                    "title": "Estaré con Resident Evil 7 😈",
+                    "description": "Vamos a (intentar) acabar ya el juego. Nos hemos cargado al suegro y a la suegra, espero que no vuelvan. No sé que nos espera pero parece que habrán puzzlecitos ayuda-",
+                    "intermission": {
+                        "title": "Explicando Morpho Dimension",
+                        "description": "En cualquier momento, a mitad del bloque interrumpiremos la partida un momento y nos pondremos a explicar qué es Morpho Dimension y qué significa el acuerdo con Panaworld."
+                    }
+                },
+                {
+                    "title": "Quedan los heroes del stream 😏",
+                    "description": "Al acabar RE7 o cansarnos veremos si seguís despiertos y debatiremos sobre cosas. ¿La idea? sacar conclusiones sobre qué cositas podría programar para la comunidad, problemas, soluciones... y vosotros me podéis proponer ideas. Veríamos si son factibles o si se salen de lo posible. Bloque libre y chill."
+                }
+                ]
 }
