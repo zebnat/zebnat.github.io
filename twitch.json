@@ -1,19 +1,19 @@
 {
 	"live": false,
-	"title": "Domingo Chill RE7, MorphoD y Debate",
+	"title": "Sábado con el travieso Demonlord",
 	"description": "bla",
-	"timeleft": "2021-09-19T19:00:00Z",
+	"timeleft": "2021-09-25T20:00:00Z",
 	"program": [{
-                    "title": "Estaré con Resident Evil 7 😈",
-                    "description": "Vamos a (intentar) acabar ya el juego. Nos hemos cargado al suegro y a la suegra, espero que no vuelvan. No sé que nos espera pero parece que habrán puzzlecitos ayuda-",
+                    "title": "Programando MorphoD y charlando :D",
+                    "description": "Programaré y explicaré cosas técnicas de Morpho, ¡recuerda farmear para la llave! Durante este rato podemos hablar entre nosotros de lo que surja o incluso decidir cosas sobre el diseño. Improvisaremos :D",
                     "intermission": {
-                        "title": "Explicando Morpho Dimension",
-                        "description": "En cualquier momento, a mitad del bloque interrumpiremos la partida un momento y nos pondremos a explicar qué es Morpho Dimension y qué significa el acuerdo con Panaworld."
+                        "title": "Aún no has acabado RE7, ¡BAKA!🤪",
+                        "description": "Haremos una pausa en este bloque para ver si se acaba ya RE7. Al juego parece que le quedaba nada y menos pero... ¿Me acordaré de lo que tenía que hacer?"
                     }
                 },
                 {
-                    "title": "Quedan los heroes del stream 😏",
-                    "description": "Al acabar RE7 o cansarnos veremos si seguís despiertos y debatiremos sobre cosas. ¿La idea? sacar conclusiones sobre qué cositas podría programar para la comunidad, problemas, soluciones... y vosotros me podéis proponer ideas. Veríamos si son factibles o si se salen de lo posible. Bloque libre y chill."
+                    "title": "La hora traviesa 😏",
+                    "description": "Ya sabéis que en la hora traviesa pasan cosas muy extrañas. Veremos a ver si jugamos a algo juntos."
                 }
                 ]
 }
