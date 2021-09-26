@@ -1,19 +1,15 @@
 {
-	"live": true,
-	"title": "Sábado con el travieso Demonlord",
+	"live": false,
+	"title": "Sin novedades. Jugando con followers",
 	"description": "bla",
-	"timeleft": "2021-09-25T20:00:00Z",
+	"timeleft": "2021-09-26T20:00:00Z",
 	"program": [{
-                    "title": "Programando MorphoD y charlando :D",
-                    "description": "Programaré y explicaré cosas técnicas de Morpho, ¡recuerda farmear para la llave! Durante este rato podemos hablar entre nosotros de lo que surja o incluso decidir cosas sobre el diseño. Improvisaremos :D",
-                    "intermission": {
-                        "title": "Aún no has acabado RE7, ¡BAKA!🤪",
-                        "description": "Haremos una pausa en este bloque para ver si se acaba ya RE7. Al juego parece que le quedaba nada y menos pero... ¿Me acordaré de lo que tenía que hacer?"
-                    }
+                    "title": "Macroland :D ¿Te vienes o no?",
+                    "description": "Si quieres jugar con nosotros prepárate el tema siguiendo esta guía https://bit.ly/3i8yE9Q"
                 },
                 {
-                    "title": "La hora traviesa 😏",
-                    "description": "Ya sabéis que en la hora traviesa pasan cosas muy extrañas. Veremos a ver si jugamos a algo juntos."
+                    "title": "Probando Brawlhalla (?)",
+                    "description": "No soy muy de este tipo de juego pero la comunidad lo juega bastante. Probaremos y así les dejamos que disfruten mientras nos dan una paliza..."
                 }
                 ]
 }
