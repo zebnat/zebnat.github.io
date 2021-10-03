@@ -1,19 +1,15 @@
 {
-	"live": true,
-	"title": "¡De terror va a ir la cosa!",
+	"live": false,
+	"title": "De party con followers",
 	"description": "bla",
-	"timeleft": "2021-10-02T19:00:00Z",
+	"timeleft": "2021-10-03T20:00:00Z",
 	"program": [{
-                    "title": "Chill Time y Dev Talk",
-                    "description": "Entramos en calor charlando un ratito. Os comento también cómo va morpho y hablamos de cosas que nos conciernen y preocupan, hablo de la comunidad."
+                    "title": "Brawhalla grind",
+                    "description": "Simplemente voy a jugar hasta poder comprar Jiro y probarlo."
                 },
                 {
-                    "title": "Project Zero / Fatal Frame 😱",
-                    "description": "Esta vez espíritus... Si te gusta el terror, ya sabes, puedes pasar un 'buen' rato aquí conmigo ehheh. Como siempre, seguro necesito ayuda con los puzzles. Invocaría a Deadknight pero tampoco quiero abusar."
-                },
-                {
-                    "title": "Hora traviesa 😇",
-                    "description": "Aprovecha la hora traviesa xD. La hora en la que mi cerebro tiene menos oxígeno. Podrás sacarme respuestas que no debería dar. A lo mejor jugamos un Brawlhalla o Gartic rápido y abrimos boca para el Domingo de jugar con seguidores."
+                    "title": "Probando modos de Gartic",
+                    "description": "Aún quedan modos que quisiera probar, asi que vente a dibujar."
                 }
                 ]
 }
