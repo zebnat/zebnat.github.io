@@ -1,15 +1,11 @@
 {
 	"live": false,
-	"title": "De party con followers",
+	"title": "Directo Cancelado",
 	"description": "bla",
-	"timeleft": "2021-10-03T20:00:00Z",
+	"timeleft": "2021-09-03T20:00:00Z",
 	"program": [{
-                    "title": "Brawhalla grind",
-                    "description": "Simplemente voy a jugar hasta poder comprar Jiro y probarlo."
-                },
-                {
-                    "title": "Probando modos de Gartic",
-                    "description": "Aún quedan modos que quisiera probar, asi que vente a dibujar."
+                    "title": "Cancelado",
+                    "description": "Cancelado."
                 }
                 ]
 }
