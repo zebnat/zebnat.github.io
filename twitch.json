@@ -1,11 +1,15 @@
 {
 	"live": false,
-	"title": "Directo Cancelado",
+	"title": "Avance morpho + project zero 😨",
 	"description": "bla",
-	"timeleft": "2021-09-03T20:00:00Z",
+	"timeleft": "2021-10-09T20:00:00Z",
 	"program": [{
-                    "title": "Cancelado",
-                    "description": "Cancelado."
-                }
+                    "title": "Hola qué tal",
+                    "description": "Os comento que tal va morpho dimension y os enseño algunas cositas. Según como vea la cosa y cómo me vea de energía programaré el tema de los colores o pasamos directamente a project zero."
+                },
+		    {
+                    "title": "Puzzles imposibles ayud-",
+                    "description": "Me he quedado sin hierba, asi que no sabemos qué puede pasar en las predicciones. Este juego promete ir a peor con enemigos y puzzles más complicados."
+                },
                 ]
 }
