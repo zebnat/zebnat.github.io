@@ -1,15 +1,19 @@
 {
 	"live": false,
-	"title": "Avance morpho + project zero 😨",
+	"title": "Grindeemos juntos",
 	"description": "bla",
-	"timeleft": "2021-10-09T20:00:00Z",
+	"timeleft": "2021-10-10T20:30:00Z",
 	"program": [{
-                    "title": "Hola qué tal",
-                    "description": "Os comento que tal va morpho dimension y os enseño algunas cositas. Según como vea la cosa y cómo me vea de energía programaré el tema de los colores o pasamos directamente a project zero."
+                    "title": "Brawlhalla grind",
+                    "description": "Estaré jugando Brawlhalla con quien se quiera apuntar del chat. ¿te vienes?"
                 },
-		    {
-                    "title": "Puzzles imposibles ayud-",
-                    "description": "Me he quedado sin hierba, asi que no sabemos qué puede pasar en las predicciones. Este juego promete ir a peor con enemigos y puzzles más complicados."
+		{
+                    "title": "Novedades Macroland",
+                    "description": "Me han dicho que me pase a ver qué está sucediendo por estos lares."
+                },
+		{
+                    "title": "Decide el chat + Hora traviesa",
+                    "description": "Vosotros mandáis y decidiréis si hacemos algo o nos vamos a mimir."
                 }
                 ]
 }
