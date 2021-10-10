@@ -1,15 +1,19 @@
 {
-	"live": false,
-	"title": "Grindeemos juntos",
+	"live": true,
+	"title": "Programando~ Despertarme para jugar",
 	"description": "bla",
 	"timeleft": "2021-10-10T20:30:00Z",
 	"program": [{
+                    "title": "Programando morpho dimension",
+                    "description": "Programando en silencio desde antes de la hora oficial. Puedes dejar mensajes por el chat. Si se ve demasiado animado, cambiamos al bloque #2."
+                },
+		{
                     "title": "Brawlhalla grind",
-                    "description": "Estaré jugando Brawlhalla con quien se quiera apuntar del chat. ¿te vienes?"
+                    "description": "Un poco de Brawlhalla no vendrá mal. Quien se quiera apuntar del chat que lo diga."
                 },
 		{
                     "title": "Novedades Macroland",
-                    "description": "Me han dicho que me pase a ver qué está sucediendo por estos lares."
+                    "description": "Me han dicho que me pase a ver qué está sucediendo por estos lares. ¿Alguien me guía?"
                 },
 		{
                     "title": "Decide el chat + Hora traviesa",
