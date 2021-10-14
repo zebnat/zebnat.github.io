@@ -1,23 +1,10 @@
 {
 	"live": false,
-	"title": "Programando~ Despertarme para jugar",
+	"title": "Directo cancelado 🤒🤢😵",
 	"description": "bla",
-	"timeleft": "2021-10-10T20:30:00Z",
+	"timeleft": "2021-10-16T20:30:00Z",
 	"program": [{
-                    "title": "Programando morpho dimension",
-                    "description": "Programando en silencio desde antes de la hora oficial. Puedes dejar mensajes por el chat. Si se ve demasiado animado, cambiamos al bloque #2."
-                },
-		{
-                    "title": "Brawlhalla grind",
-                    "description": "Un poco de Brawlhalla no vendrá mal. Quien se quiera apuntar del chat que lo diga."
-                },
-		{
-                    "title": "Novedades Macroland",
-                    "description": "Me han dicho que me pase a ver qué está sucediendo por estos lares. ¿Alguien me guía?"
-                },
-		{
-                    "title": "Decide el chat + Hora traviesa",
-                    "description": "Vosotros mandáis y decidiréis si hacemos algo o nos vamos a mimir."
-                }
-                ]
+                    "title": "Sin directo pero activo",
+                    "description": "Los virus se han apoderado de mi. Este fin de semana no me tendréis con vosotros pero intentaré estar online. Toca caza de cheaters."
+                }]
 }
