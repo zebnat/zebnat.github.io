@@ -1,10 +1,19 @@
 {
 	"live": false,
-	"title": "Directo cancelado 🤒🤢😵",
+	"title": "Aburriendo a seguidores",
 	"description": "bla",
-	"timeleft": "2021-10-16T20:30:00Z",
+	"timeleft": "2021-10-23T20:00:00Z",
 	"program": [{
-                    "title": "Sin directo pero activo",
-                    "description": "Los virus se han apoderado de mi. Este fin de semana no me tendréis con vosotros pero intentaré estar online. Toca caza de cheaters."
+                    "title": "Charlemos 🤩",
+                    "description": "Vamos haciendo tiempo para que entre gente al directo y hablamos entre los que estemos por el chat."
+                },{
+                    "title": "Leyendo preguntas de la semana",
+                    "description": "Ya no dedico tiempo fuera de los directos a responder preguntas. Voy a leer qué me habéis escrito durante la semana. También leeré del chat, obviamente."
+                },{
+                    "title": "Morpho Dimension y contribuidores",
+                    "description": "Os muestro el estado de la aplicación y comentamos cómo podéis aportar con arte, de momento a la aplicación. Intro, fondos, iconos, logotipo..."
+                },{
+                    "title": "Gaming (Project Zero)",
+                    "description": "Es mes de Halloween, pero eso da igual. Probablemente jugaré terror hasta que no queden juegos de terror por jugar. Seguimos con Project Zero, y tú sigues yéndote afk mientras suben tus tokens. (Ayudadme con el juego malditos)"
                 }]
 }
